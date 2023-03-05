@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(237, 237, 237);
+}
+
+.mi-foto-perfil {
+    width: 100%;
+    height: 70%;
+ }
+
+ .sidebar {
+    background-color: rgb(237, 237, 237);
+  }
+   
+  .sidebar a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+  
+  .sidebar a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+  }
